@@ -15,6 +15,7 @@ module.exports = {
 
   rules: {
     '@typescript-eslint/explicit-function-return-type': 0, // reconsider
+    '@typescript-eslint/explicit-module-boundary-types': 0, // reconsider
     '@typescript-eslint/member-delimiter-style': [
       'error',
       { multiline: { delimiter: 'none' } },
