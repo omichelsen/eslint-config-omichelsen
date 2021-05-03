@@ -1,7 +1,7 @@
 module.exports = {
   plugins: ['prettier'],
 
-  extends: ['plugin:prettier/recommended', 'prettier/@typescript-eslint'],
+  extends: ['plugin:prettier/recommended'],
 
   rules: {
     'prettier/prettier': ['error', require('../.prettierrc')],
