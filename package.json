@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-omichelsen",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "My shared eslint and prettier config for personal projects",
   "main": "index.js",
   "scripts": {
